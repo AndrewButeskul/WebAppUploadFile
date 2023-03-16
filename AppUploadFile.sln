@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppUploadFile", "AppUploadFile.csproj", "{B5E71D1B-3BBD-48A9-87CF-03D408830604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5E71D1B-3BBD-48A9-87CF-03D408830604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E71D1B-3BBD-48A9-87CF-03D408830604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E71D1B-3BBD-48A9-87CF-03D408830604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E71D1B-3BBD-48A9-87CF-03D408830604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A17389B3-217D-405D-BDB9-934A619C872D}
+	EndGlobalSection
+EndGlobal
